@@ -9,8 +9,8 @@ PC installed with SCILAB
 ## PROGRAM:
 
 ### CIRCULAR CONVOLUTION:
-
 <img width="732" height="976" alt="image" src="https://github.com/user-attachments/assets/d5865d33-7a2c-480d-89c6-cb19ec7d47c3" />
+
 <img width="1031" height="620" alt="image" src="https://github.com/user-attachments/assets/28bbbcd0-427c-4dc0-be72-f1917898351f" />
 
 
